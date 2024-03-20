@@ -1,0 +1,15 @@
+/home/rimshot/leetcode/IntegerToRoman/obj/Debug/net8.0/IntegerToRoman.GeneratedMSBuildEditorConfig.editorconfig
+/home/rimshot/leetcode/IntegerToRoman/obj/Debug/net8.0/IntegerToRoman.AssemblyInfoInputs.cache
+/home/rimshot/leetcode/IntegerToRoman/obj/Debug/net8.0/IntegerToRoman.AssemblyInfo.cs
+/home/rimshot/leetcode/IntegerToRoman/obj/Debug/net8.0/IntegerToRoman.csproj.CoreCompileInputs.cache
+/home/rimshot/leetcode/IntegerToRoman/obj/Debug/net8.0/IntegerToRoman.sourcelink.json
+/home/rimshot/leetcode/IntegerToRoman/bin/Debug/net8.0/IntegerToRoman
+/home/rimshot/leetcode/IntegerToRoman/bin/Debug/net8.0/IntegerToRoman.deps.json
+/home/rimshot/leetcode/IntegerToRoman/bin/Debug/net8.0/IntegerToRoman.runtimeconfig.json
+/home/rimshot/leetcode/IntegerToRoman/bin/Debug/net8.0/IntegerToRoman.dll
+/home/rimshot/leetcode/IntegerToRoman/bin/Debug/net8.0/IntegerToRoman.pdb
+/home/rimshot/leetcode/IntegerToRoman/obj/Debug/net8.0/IntegerToRoman.dll
+/home/rimshot/leetcode/IntegerToRoman/obj/Debug/net8.0/refint/IntegerToRoman.dll
+/home/rimshot/leetcode/IntegerToRoman/obj/Debug/net8.0/IntegerToRoman.pdb
+/home/rimshot/leetcode/IntegerToRoman/obj/Debug/net8.0/IntegerToRoman.genruntimeconfig.cache
+/home/rimshot/leetcode/IntegerToRoman/obj/Debug/net8.0/ref/IntegerToRoman.dll

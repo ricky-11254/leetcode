@@ -1,0 +1,9 @@
+C:\Users\erick\lcthw\AddTwoNumbers\obj\Debug\net8.0\AddTwoNumbers.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\erick\lcthw\AddTwoNumbers\obj\Debug\net8.0\AddTwoNumbers.AssemblyInfoInputs.cache
+C:\Users\erick\lcthw\AddTwoNumbers\obj\Debug\net8.0\AddTwoNumbers.AssemblyInfo.cs
+C:\Users\erick\lcthw\AddTwoNumbers\obj\Debug\net8.0\AddTwoNumbers.csproj.CoreCompileInputs.cache
+C:\Users\erick\lcsthw\AddTwoNumbers\obj\Debug\net8.0\AddTwoNumbers.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\erick\lcsthw\AddTwoNumbers\obj\Debug\net8.0\AddTwoNumbers.AssemblyInfoInputs.cache
+C:\Users\erick\lcsthw\AddTwoNumbers\obj\Debug\net8.0\AddTwoNumbers.AssemblyInfo.cs
+C:\Users\erick\lcsthw\AddTwoNumbers\obj\Debug\net8.0\AddTwoNumbers.csproj.CoreCompileInputs.cache
+C:\Users\erick\lcsthw\AddTwoNumbers\obj\Debug\net8.0\AddTwoNumbers.sourcelink.json
