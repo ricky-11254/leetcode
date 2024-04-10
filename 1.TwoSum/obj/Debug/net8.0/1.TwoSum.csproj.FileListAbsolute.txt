@@ -1,0 +1,15 @@
+C:\Users\erick\leetcode\1.TwoSum\obj\Debug\net8.0\1.TwoSum.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\erick\leetcode\1.TwoSum\obj\Debug\net8.0\1.TwoSum.AssemblyInfoInputs.cache
+C:\Users\erick\leetcode\1.TwoSum\obj\Debug\net8.0\1.TwoSum.AssemblyInfo.cs
+C:\Users\erick\leetcode\1.TwoSum\obj\Debug\net8.0\1.TwoSum.csproj.CoreCompileInputs.cache
+C:\Users\erick\leetcode\1.TwoSum\obj\Debug\net8.0\1.TwoSum.sourcelink.json
+C:\Users\erick\leetcode\1.TwoSum\bin\Debug\net8.0\1.TwoSum.exe
+C:\Users\erick\leetcode\1.TwoSum\bin\Debug\net8.0\1.TwoSum.deps.json
+C:\Users\erick\leetcode\1.TwoSum\bin\Debug\net8.0\1.TwoSum.runtimeconfig.json
+C:\Users\erick\leetcode\1.TwoSum\bin\Debug\net8.0\1.TwoSum.dll
+C:\Users\erick\leetcode\1.TwoSum\bin\Debug\net8.0\1.TwoSum.pdb
+C:\Users\erick\leetcode\1.TwoSum\obj\Debug\net8.0\1.TwoSum.dll
+C:\Users\erick\leetcode\1.TwoSum\obj\Debug\net8.0\refint\1.TwoSum.dll
+C:\Users\erick\leetcode\1.TwoSum\obj\Debug\net8.0\1.TwoSum.pdb
+C:\Users\erick\leetcode\1.TwoSum\obj\Debug\net8.0\1.TwoSum.genruntimeconfig.cache
+C:\Users\erick\leetcode\1.TwoSum\obj\Debug\net8.0\ref\1.TwoSum.dll
